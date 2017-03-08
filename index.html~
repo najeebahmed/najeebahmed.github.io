@@ -26,6 +26,9 @@
                     <h1><span class="titlesubcolor">Najeeb</span> Sajid</h1>
                     <h2>Computer Science Student</h2>
                 </div>
+                <div class="textarea">
+                    <p><span class="titlesubcolor">Najeeb</span> is a Programmer Analyst intern at Equiant Financial Solutions. Currently, along with his ASU courses, he is enrolled at Udemy.com in Python for Data Science and Machine Learning.</p>
+                </div>
             </div>
         </header>
 <!--

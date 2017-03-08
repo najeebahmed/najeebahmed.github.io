@@ -79,10 +79,11 @@ h2 {
 }
 
 .textarea p {
+    background-color: rgba(17, 136, 68, .8);
     font-size: 1.0em;
     padding-bottom: 25px;
-    color: #D7DADD;
-    width: 50%;
+    color: #FFE;
+    width: 90%;
     text-align: justify;
     margin: auto;
     padding: 40px;
@@ -109,7 +110,7 @@ h2 {
 .box .textarea {
     width: 50%;
     display: inline-block;
-    margin: 50px auto;
+    margin: 300px auto;
     text-align: center;
     /*background-color: rgba(242, 242, 242, .95);*/
 }
